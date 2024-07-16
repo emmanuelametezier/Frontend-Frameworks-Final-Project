@@ -33,11 +33,6 @@ function ProductForm() {
     fetch()
   }, [id])
 
-  function handleChange(event) {
-    setProduct((preValue) => {
-      return { ...preValue, [event.target.name]: event.target.value }})
-  }
-
   function addOrUpdate() {
     if (id === undefined) {
       return addProduct(product)
