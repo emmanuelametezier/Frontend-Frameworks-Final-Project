@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Coffee",
+      "description": "Bottomless House Roasted Coffee",
+      "price": 2.5,
+      "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "productName": "Soda",
+      "description": "Choice of any fountain sparkling beverage",
+      "price": 2.5,
+      "image": "https://images.pexels.com/photos/2983100/pexels-photo-2983100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "productName": "Chocolate Milkshake",
+      "description": "Dark chocolate whipped with locally sourced milk and sweetened with sugar",
+      "price": 2.5,
+      "image": "https://images.pexels.com/photos/11381485/pexels-photo-11381485.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "productName": "Pecan Pie",
+      "description": "A slice of our exquisite Pecan Pie",
+      "price": 2.5,
+      "image": "https://images.pexels.com/photos/5836437/pexels-photo-5836437.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "productName": "Espresso",
+      "description": "Freshly pull shot of espresso",
+      "price": "2.99",
+      "image": "https://images.pexels.com/photos/1727123/pexels-photo-1727123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
